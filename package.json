@@ -6,5 +6,17 @@
   "repository": "https://github.com/Engywook2005/subteacher-be.git",
   "author": "Greg Thorson <Engywook2005@gmail.com>",
   "license": "MIT",
-  "private": false
+  "private": false,
+  "scripts": {
+    "start": "node src/app.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^16.4.5",
+    "express": "^4.21.0",
+    "mongoose": "^8.6.2"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
 }
