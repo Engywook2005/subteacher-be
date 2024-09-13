@@ -14,7 +14,7 @@ app.use(cors());
 app.use(express.json()); // Parse incoming JSON requests
 
 // Routes
-app.use('/api', routes);
+app.use('/', routes);
 
 // MongoDB connection
 // const db = require('../config/db');
