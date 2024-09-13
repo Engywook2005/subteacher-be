@@ -1,0 +1,10 @@
+{
+  "name": "subteacher-be",
+  "version": "1.0.0",
+  "description": "Back end for recipe substitution guide",
+  "main": "src/app.js",
+  "repository": "https://github.com/Engywook2005/subteacher-be.git",
+  "author": "Greg Thorson <Engywook2005@gmail.com>",
+  "license": "MIT",
+  "private": false
+}

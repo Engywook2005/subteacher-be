@@ -1,0 +1,1 @@
+// API routes (e.g., /api/recipes, /api/substitutions)
