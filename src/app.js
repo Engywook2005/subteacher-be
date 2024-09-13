@@ -17,8 +17,8 @@ app.use(express.json()); // Parse incoming JSON requests
 app.use('/api', routes);
 
 // MongoDB connection
-const db = require('../config/db');
-db.connect();
+// const db = require('../config/db');
+// db.connect();
 
 // Start server
 const PORT = process.env.PORT || 5000;
